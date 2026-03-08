@@ -5,4 +5,4 @@ lightweight shell for Android
 # don't support reading/writing files.
 # some commands don't work.
 
-source code in releases
+   # check releases
